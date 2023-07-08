@@ -1,4 +1,4 @@
-# Authentication & Authorization | Part 4
+# Authentication & Authorization | 
 
 - Integrating APIs
   - Get Exclusive Prime Deals
